@@ -1,0 +1,30 @@
+body{
+    background-color: floralwhite;
+}
+img{
+    display: block;
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+hr{
+    margin:0px 150px;
+    padding:0px 100px 0px 100px;
+    text-align: center; 
+    border: none;
+    height:1px;
+    background-color: cornflowerblue;
+
+}
+.h{
+    color: chocolate;
+    margin:11px 150px;
+
+}
+.h1{
+      margin:11px 150px;
+}
+p{
+     margin:0px 150px;
+}
