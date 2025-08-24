@@ -1,0 +1,18 @@
+.c1{
+   display: block;
+   float: left;
+   width: 400px;
+   height: 300px;
+   margin-top: 5px;
+   margin-right: 20px;
+   margin-left: 10px;
+}
+.c2{
+   display: block;
+   float: right;
+   width: 400px;
+   height: 300px;
+   margin-top: 5px;
+   margin-right: 20px;
+   margin-left: 10px;
+}
